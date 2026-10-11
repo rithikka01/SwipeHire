@@ -14,7 +14,7 @@ More details coming soon. Stay tuned!
 
 *Building in silence. Launching with purpose.* ✨
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/1428e5eb-270a-4e14-a3f4-efbe466dc54b" />
+
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e739ea8-f922-4833-98c6-0e5f33cb7429" />
 
